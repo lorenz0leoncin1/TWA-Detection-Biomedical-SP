@@ -51,6 +51,8 @@ $$MAG_{CM} = A_{CM} \times N_{CM}$$
 - **Database:** [PhysioNet MUSIC Database](https://physionet.org/content/music-sudden-cardiac-death/1.0.1/)
 - Patients with Sudden Cardiac Death in Heart Failure
 
+> ⚠️ **Note:** The `data/` folder contains pre-downloaded ECG files (~90MB each). Clone with caution on limited bandwidth.
+
 ## Usage
 
 ```bash

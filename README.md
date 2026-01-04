@@ -55,9 +55,13 @@ $$MAG_{CM} = A_{CM} \times N_{CM}$$
 
 ## Usage
 
+> **Note:** The notebook [`TWA_Project.ipynb`](TWA_Project.ipynb) can be viewed directly on GitHub with all results already computed.
+
+To run locally:
+
 ```bash
 pip install -r requirements.txt
-jupyter notebook TWA_Project_final.ipynb
+jupyter notebook TWA_Project.ipynb
 ```
 
 ## Reference
